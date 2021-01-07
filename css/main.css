@@ -1,0 +1,145 @@
+.hide{
+    display: none;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+body{
+  margin: 0;
+  padding:0;
+}
+
+
+.page_main{
+    background-image: url('../imgs/page_main.jpg');
+    width:720px;
+    height:2045px;
+  }
+
+button{
+  background-color: transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;   
+  margin-left: auto;
+  margin-right:auto;  
+}
+
+.btn_start{
+  padding-top: 530px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.q1{
+  background-image: url('../imgs/Q1.png');
+  background-repeat:no-repeat;
+  height: 961px;
+  width: 720px;
+  margin:0px auto;
+}
+
+.q2{
+  background-image: url('../imgs/Q2.png');
+  background-repeat:no-repeat;
+  height: 961px;
+  width: 720px;
+  margin:0px auto;
+}
+
+.q3{
+  background-image: url('../imgs/Q3.png');
+  background-repeat:no-repeat;
+  height: 961px;
+  width: 720px;
+  margin:0px auto;
+}
+
+.question_1, .question_2, .question_3{
+  display:block;
+  position:relative;
+  top:130px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:150px;
+  padding-left:140px;
+  width: 65%;
+}
+
+.question_1 p, .question_2 p, .question_3 p{
+  margin-top: 0px;
+  margin-bottom:0px;
+  top: 110px;
+  left:90px;
+  font-size: 30px;
+  color:rgb(255,184,143);
+  font-family:"華康粗圓體(P)","Arial";
+}
+
+.options_1, .options_2, .options_3{
+  position:relative;
+  top:170px;
+  width: 75%;
+  margin:50px auto;
+  padding-left:30px;
+}
+
+span{
+  display: inline-block;
+  cursor: pointer;
+  font-family:"華康粗圓體(P)","Arial";
+  font-size:40px;
+  margin: 5px 0px 10px 10px;
+}
+
+input[type="radio"]{
+  opacity:0;
+}
+
+input[type="radio"]+ label,input[type="radio"]:checked+label{
+  content:"";
+  display:inline-block;
+  width:30px;
+  height:30px;
+  position:relative;
+  border: 3px solid #333;
+  border-radius:50%;
+}
+
+input[type="radio"]:checked + label{
+  background:#333;
+}
+
+#q1_submit, #q2_submit, #q3_submit{
+  display:block;
+  position:relative;
+  top:130px;
+}
+
+.show_result{
+  margin-left: auto;
+  margin-right:auto;
+  width: 721px;
+}
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+

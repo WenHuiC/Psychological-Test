@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "question": "過新年時你會選擇買下列哪一種主題的月曆掛在家裡陪你迎賓送客呢?",
+        "options": [
+            {
+                "option": "異國風景",
+                "point": 3
+            },
+            {
+                "option": "美女明星",
+                "point": 2
+            },
+            {
+                "option": "可愛動物",
+                "point": 1
+            },
+            {
+                "option": "大師明畫",
+                "point": 4
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "去看電影買票之後，你是怎麼拿票的呢?",
+        "options": [
+            {
+                "option": "把票放進口袋",
+                "point": 4
+            },
+            {
+                "option": "把票捲起來",
+                "point": 1
+            },
+            {
+                "option": "把票放進錢包內",
+                "point": 3
+            },
+            {
+                "option": "緊捏在手上",
+                "point": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "每天出門你包包內一定會帶哪一樣物品呢?",
+        "options": [
+            {
+                "option": "筆記本",
+                "point": 2
+            },
+            {
+                "option": "筆",
+                "point": 3
+            },
+            {
+                "option": "衛生紙",
+                "point": 1
+            },
+            {
+                "option": "水壺",
+                "point": 4
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "如果你突然有一個下午的空閒時間，你會選擇做什麼?",
+        "options": [
+            {
+                "option": "好好在家睡一覺",
+                "point": 1
+            },
+            {
+                "option": "到戶外走走",
+                "point": 4
+            },
+            {
+                "option": "約好友到咖啡廳喝茶聊天",
+                "point": 3
+            },
+            {
+                "option": "看一部有意義的電影",
+                "point": 2
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "你正在坐船，周遭是一望無際的海洋，遠方突然有東西出現，你想那會是什麼?",
+        "options": [
+            {
+                "option": "陸地",
+                "point": 1
+            },
+            {
+                "option": "另一艘船",
+                "point": 3
+            },
+            {
+                "option": "朝陽",
+                "point": 2
+            },
+            {
+                "option": "鯨魚",
+                "point": 4
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "你坐在鏡子前，正看著自己的時候，突然頭上出現天使般的光環，你覺得是什麼顏色的呢?",
+        "options": [
+            {
+                "option": "紅色",
+                "point": 4
+            },
+            {
+                "option": "橘色",
+                "point": 2
+            },
+            {
+                "option": "水藍色",
+                "point": 3
+            },
+            {
+                "option": "綠色",
+                "point": 1
+            }
+        ]
+    }
+]
